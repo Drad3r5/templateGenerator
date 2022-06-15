@@ -27,5 +27,10 @@ Template generator for Project written in python
 **Example:**
 
 ```sh
-./main.py <lang> <path>
+$ ./generate.py 
+.USAGE: generate.py <lang> <path>
+  lang - The language you want to work with. 
+  path - The name of the project that you want to create. 
+
+No arguments provided!
 ```
