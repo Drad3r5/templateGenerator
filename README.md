@@ -1,26 +1,27 @@
 Project Template Generator written in python
 
-Features:
-  - generates language specific projects.
-  - C++ is still only the supported language.
+**Features:**
+  1. *Generates language specific projects.*
+  2. *C++ is still only the supported language.*
 
-Incoming Features:
-  - TUI Support 
-  - Other language support
+**Incoming Features:**
+  1. *TUI Support*
+  2. *Other language support*
 
-Files
+**Files:**
 
-  cpp.py
-    This is where the function's used to generate project templates 
+**cpp.py:**
+  1. *This is where the function's used to generate project templates*
 
-  main.py 
-    This is the main file where there is used to parse arguments
-    and initialize any sub modules needed for language support.
+**main.py:** 
+  1. *This is the main file where there is used to parse arguments*
+  2. *and initialize any sub modules needed for language support.*
 
 
-Directories
-  test
-    A test C++ Project 
-    Is generated
+**Directories:**
+
+**test:**
+   1. *A test C++ Project* 
+   2. *Is generated*
 
 
