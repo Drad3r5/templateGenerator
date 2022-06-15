@@ -1,5 +1,4 @@
-Project Template Generator written in python
-
+Template generator for Project written in python
 **Features:**
   1. *Generates language specific projects.*
   2. *C++ is still only the supported language.*
@@ -25,3 +24,8 @@ Project Template Generator written in python
    2. *Is generated*
 
 
+**Example:**
+
+```sh
+./main.py <lang> <path>
+```
