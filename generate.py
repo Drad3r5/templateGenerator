@@ -31,7 +31,7 @@ def main():
 
 
 def usage():
-    print("USAGE: generate <lang> <path>")
+    print("USAGE: generate.py <lang> <path>")
     print("  lang - The language you want to work with. ")
     print("  path - The name of the project that you want to create. ")
 
